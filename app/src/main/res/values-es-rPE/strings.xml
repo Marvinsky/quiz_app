@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">EXAMEN | Que tan bien conoces a los perros?</string>
+    <string name="correct"><b>EXACTITUD ES</b>\n
+                               <b>%1$d</b> OUT OF 6</string>
+    <string name="true_text">verdad</string>
+    <string name="false_text">falso</string>
+    <string name="correct_answer">Eso es correcto</string>
+    <string name="wrong_answer">Eso es incorrecto</string>
+    <string name="a">Es el pastor aleman originario de alemania?</string>
+    <string name="b">El perro chino sin pelo?</string>
+    <string name="c">El chihuaha es de chile?</string>
+    <string name="d">EL bulldog sufre del corazon por sobrepeso?</string>
+    <string name="e">Poodle tiene tres variedades?</string>
+    <string name="f">Rottweiler son potencialmente peligrsosos?</string>
+    <string name="next_text">siguiente</string>
+    <string name="prev_text">anterior</string>
+</resources>
